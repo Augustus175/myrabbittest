@@ -1,4 +1,4 @@
-package com.rabbitmq.myrabbit.chap_PublishandSubscribe;
+package com.rabbitmq.myrabbit.chap03_PublishandSubscribe;
 
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
