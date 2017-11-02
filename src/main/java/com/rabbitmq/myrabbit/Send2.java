@@ -25,7 +25,6 @@ public class Send2 {
         Connection connection = factory.newConnection();
         // 创建一个频道
         Channel channel = connection.createChannel();
-
         // 指定一个队列
         channel.queueDeclare(QUEUE_NAME, false, false, false, null);
 
