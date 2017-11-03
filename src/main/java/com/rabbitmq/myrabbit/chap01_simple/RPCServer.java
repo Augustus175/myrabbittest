@@ -1,4 +1,4 @@
-package com.rabbitmq.myrabbit;
+package com.rabbitmq.myrabbit.chap01_simple;
 
 import java.security.MessageDigest;
 

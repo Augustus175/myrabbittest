@@ -1,4 +1,4 @@
-package com.rabbitmq.myrabbit;
+package com.rabbitmq.myrabbit.chap01_simple;
 
 import com.rabbitmq.client.AMQP;
 import com.rabbitmq.client.Channel;

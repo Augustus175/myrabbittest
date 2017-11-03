@@ -1,4 +1,4 @@
-package com.rabbitmq.myrabbit;
+package com.rabbitmq.myrabbit.chap01_simple;
 
 /**
  * Created by zhangzhibo-dell on 17-10-29.
